@@ -1,0 +1,22 @@
+{
+  "name": "yura-doc",
+  "version": "1.0.0",
+  "description": "La doc de yura",
+  "main": "index.html",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pronicio/yura-doc.git"
+  },
+  "author": "Pronicio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pronicio/yura-doc/issues"
+  },
+  "homepage": "https://github.com/Pronicio/yura-doc#readme"
+}
