@@ -39,6 +39,10 @@ new Docute({
           title: 'Ticket',
           link: '/ticket'
         },
+        {
+          title: 'Reaction Roles',
+          link: '/reactroles'
+        },
       ]
     },
     {

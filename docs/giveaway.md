@@ -8,6 +8,7 @@ Pour commencer tapez la commande `//start-giveaway` ou `//s-g` son aliase.
 Commande complète : `//start-giveaway [Channel] [Temps] [Nombre de gagnants] [Prix]`
 
 ![Drag Racing](../assets/config/giveawayStart.png)  
+
 Et voilà ! Maintenant **le giveaway est prêt** !
 
 ## 🧩 Commande End
@@ -15,6 +16,7 @@ Et voilà ! Maintenant **le giveaway est prêt** !
 Si vous voulez terminer le giveaway avant la fin tapez la commande `//end-giveaway [Id du giveaway]`.
 
 ![Drag Racing](../assets/config/giveawayEnd.png)  
+
 Et voilà ! Maintenant **le giveaway est arrêté** !
 
 ## 🧨 Commande Reroll
@@ -22,6 +24,7 @@ Et voilà ! Maintenant **le giveaway est arrêté** !
 Vous pouvez relancer le giveaway avec la commande `//reroll-giveaway [Id du giveaway]`.
 
 ![Drag Racing](../assets/config/giveawayReroll.png)  
+
 Et voilà ! Maintenant **le giveaway est relancé** !
 
 ## 🎊Le système de drop
